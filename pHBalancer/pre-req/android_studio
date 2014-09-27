@@ -1,0 +1,5 @@
+# http://developer.android.com/sdk/installing/studio.html
+
+wget https://dl.google.com/android/studio/install/0.8.6/android-studio-bundle-135.1339820-windows.exe
+wget https://dl.google.com/android/studio/install/0.8.6/android-studio-bundle-135.1339820-mac.dmg
+wget https://dl.google.com/android/studio/install/0.8.6/android-studio-bundle-135.1339820-linux.tgz
