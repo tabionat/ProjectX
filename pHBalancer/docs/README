@@ -1,0 +1,9 @@
+Project Goals:
+
+* Create a device which can measure the toxicity of pool water
+* Device has the ability to connect to the internet
+* Device can send data to a client indicating statistics of water.
+    i.e. pH, chlorine, temperature
+* Client application supports processing push or pull data from device
+* Client application supports sending control messages to device.
+    i.e. add chlorine
